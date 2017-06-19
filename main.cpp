@@ -10,7 +10,7 @@
 #include "itkMeanSquaresImageToImageMetric.h"
 #include "itkNormalizedCorrelationImageToImageMetric.h"
 
-
+//Main
 
 int main(int argc, char *argv[])
 {
